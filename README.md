@@ -47,3 +47,37 @@ Test Data :
 42 
 Expected Output :
 Its very hot.
+
+Additional Homework:
+
+Task no.1:
+Create new console application “RealCalculator” that takes two numbers from the input and asks what operation would the user want to be done ( +, - , * , / ). Then it returns the result.
+Test Data:
+Enter the First number: 10
+Enter the Second number: 15
+Enter the Operation: +
+ 
+Expected Output:
+The result is: 25
+
+Task no.3:
+Create new console application “SwapNumbers”. Input 2 numbers from the console and then swap the values of the variables so that the first variable has the second value and the second variable the first value.
+Please find example below:
+
+
+ 
+Test Data:
+Input the First Number: 5
+Input the Second Number: 8
+ 
+Expected Output:
+After Swapping:
+First Number: 8
+Second Number: 5
+
+
+
+
+
+
+
