@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\Additional homework - RearCalculator SG4\bin\Debug\Additional homework - RearCalculator SG4.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\Additional homework - RearCalculator SG4\bin\Debug\Additional homework - RearCalculator SG4.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\Additional homework - RearCalculator SG4\bin\Debug\Additional homework - RearCalculator SG4.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\Additional homework - RearCalculator SG4\obj\Debug\Additional homework - RearCalculator SG4.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\Additional homework - RearCalculator SG4\obj\Debug\Additional homework - RearCalculator SG4.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\Additional homework - RearCalculator SG4\obj\Debug\Additional homework - RearCalculator SG4.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\Additional homework - RearCalculator SG4\obj\Debug\Additional homework - RearCalculator SG4.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\SwapNumbers SG4 homework\bin\Debug\SwapNumbers SG4 homework.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\SwapNumbers SG4 homework\bin\Debug\SwapNumbers SG4 homework.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\SwapNumbers SG4 homework\bin\Debug\SwapNumbers SG4 homework.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\SwapNumbers SG4 homework\obj\Debug\SwapNumbers SG4 homework.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\SwapNumbers SG4 homework\obj\Debug\SwapNumbers SG4 homework.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Additional homework - RearCalculator SG4\SwapNumbers SG4 homework\obj\Debug\SwapNumbers SG4 homework.pdb
