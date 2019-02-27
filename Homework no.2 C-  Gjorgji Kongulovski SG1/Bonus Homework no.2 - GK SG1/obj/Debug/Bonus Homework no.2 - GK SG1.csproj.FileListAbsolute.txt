@@ -1,0 +1,6 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Bonus Homework no.2 - GK SG1\bin\Debug\Bonus Homework no.2 - GK SG1.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Bonus Homework no.2 - GK SG1\bin\Debug\Bonus Homework no.2 - GK SG1.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Bonus Homework no.2 - GK SG1\bin\Debug\Bonus Homework no.2 - GK SG1.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Bonus Homework no.2 - GK SG1\obj\Debug\Bonus Homework no.2 - GK SG1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Bonus Homework no.2 - GK SG1\obj\Debug\Bonus Homework no.2 - GK SG1.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Bonus Homework no.2 - GK SG1\obj\Debug\Bonus Homework no.2 - GK SG1.pdb

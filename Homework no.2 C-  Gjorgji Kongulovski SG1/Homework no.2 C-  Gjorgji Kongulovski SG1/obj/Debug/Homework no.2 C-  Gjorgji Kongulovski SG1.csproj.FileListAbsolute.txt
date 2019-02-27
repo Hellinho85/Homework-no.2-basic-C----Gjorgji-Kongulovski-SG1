@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Homework no.2 C-  Gjorgji Kongulovski SG1\bin\Debug\Homework no.2 C-  Gjorgji Kongulovski SG1.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Homework no.2 C-  Gjorgji Kongulovski SG1\bin\Debug\Homework no.2 C-  Gjorgji Kongulovski SG1.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Homework no.2 C-  Gjorgji Kongulovski SG1\bin\Debug\Homework no.2 C-  Gjorgji Kongulovski SG1.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Homework no.2 C-  Gjorgji Kongulovski SG1\obj\Debug\Homework no.2 C-  Gjorgji Kongulovski SG1.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Homework no.2 C-  Gjorgji Kongulovski SG1\obj\Debug\Homework no.2 C-  Gjorgji Kongulovski SG1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Homework no.2 C-  Gjorgji Kongulovski SG1\obj\Debug\Homework no.2 C-  Gjorgji Kongulovski SG1.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Homework no.2 C-  Gjorgji Kongulovski SG1\Homework no.2 C-  Gjorgji Kongulovski SG1\obj\Debug\Homework no.2 C-  Gjorgji Kongulovski SG1.pdb
